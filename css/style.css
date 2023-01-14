@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(116, 151, 189);
+    color: rgb(255, 255, 255);
+}
+.logo{
+    height: 50px;
+}
+.btn1,.btn2{
+    background-color: rgb(94, 0, 94);
+    color: aliceblue;
+    border:none;
+}
+label,.feedback{
+    color: rgb(94, 0, 94);
+}
+.img1{
+    width: 100%;
+    height: 300px;
+}
+.img2{
+    width: 100%;
+    height: 262px;
+}
+.img3{
+    width: 20%;
+}
+
